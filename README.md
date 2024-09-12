@@ -2,7 +2,7 @@ Hi, I'm Lucy, a student studying Physics with astronomy
 
 I occasisonly make something
 
-#^_^
+^_^
 
 <!---
 lucylamb0/lucylamb0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
