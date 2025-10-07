@@ -1,4 +1,4 @@
-Hi, I'm Lucy, a student studying Physics with astronomy
+Hi, I'm Lucy, a Physics with astronomy graduate
 
 I occasisonly make something
 
